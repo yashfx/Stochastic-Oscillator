@@ -1,2 +1,2 @@
 # Stochastic-Oscillator
-Using Pandas dataframe I am calculating the values of oscillators
+Using Pandas dataframe calculating the values of oscillators
